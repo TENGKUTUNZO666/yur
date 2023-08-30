@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "playwright-extra": "^4.3.6"
+  }
+}
